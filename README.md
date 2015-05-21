@@ -20,11 +20,11 @@ python manage.py runserver [port_number] #port number is optional
 
 This should start the server running on your localhost
 Point your browser to the link specified below
-[http://localhost:8000]
+[http://localhost:8000](http://localhost:8000)
 You will see the API root . You can navigate to users or the groups
 
-[http://localhost:8000/users] takes you to the users list and
-[http://localhost:8000/groups] takes you to the group list
+[http://localhost:8000/users](http://localhost:8000/users)  takes you to the users list and
+[http://localhost:8000/groups](http://localhost:8000/groups) takes you to the group list
 
 ## Contact
 For any queries, feel free to reach me at  *sn.munendra52 [at] gmail [dot] com*
