@@ -3,8 +3,8 @@ Django REST framework is a powerful and flexible toolkit that makes it easy to b
 To build the API, I refered the http://www.django-rest-framework.org/
 
 ##Used Technologies
-1.Django RestFramework
-2.sqlite database
+`Django RestFramework`
+`sqlite database`
 
 ## Getting Started
  `serializers.py` file present in the `details` folder is the heart of this API.The API can be further improved using MODEL_Serializers
